@@ -2,6 +2,19 @@
 
 ### GIT
 
+- ajouter tous les fichiers au tracking
+`git add .`
+
+- ajouter un fichier au tracking
+`git add le_fichier`
+
+- commiter le/les fichiers trackés
+`gc -m "nom du commit"`
+
+- pusher en remote
+`ggpush`
+`git push origin`
+
 - récupère les branches du projet  
 `git fetch`
 
@@ -18,7 +31,7 @@
 `git push origin :nom_de_la_branche`
 
 - supprimer une branche locale  
-`git branch --delete nom_de_la_branche`
+`git branch -D nom_de_la_branche`
 
 - sauvegarde temporaire des mofification  
 `git stash`
@@ -26,10 +39,9 @@
 - application des modifiactions temporaire  
 `git stash apply`
 
-
 ### OTHERS
 
-- fetch des locales  
+- fetch des locales / localeapp
 `localeapp pull`
 
 - Optimisation des SVG  
