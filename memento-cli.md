@@ -46,3 +46,6 @@
 
 - Optimisation des SVG  
 `svgo --disable=removeUnknownsAndDefaults path/de/limage.svg`
+
+- compilation des fichiers de style Ghost
+- `grunt build `
