@@ -39,6 +39,14 @@
 - application des modifiactions temporaire  
 `git stash apply`
 
+### Ghost
+
+- lancer le projet - en dev (folder : ghost - pas themes)
+- `grunt dev`
+
+- compilation des fichiers de style Ghost
+- `grunt build `
+
 ### OTHERS
 
 - fetch des locales / localeapp
@@ -46,6 +54,3 @@
 
 - Optimisation des SVG  
 `svgo --disable=removeUnknownsAndDefaults path/de/limage.svg`
-
-- compilation des fichiers de style Ghost
-- `grunt build `
