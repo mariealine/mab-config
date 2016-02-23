@@ -22,4 +22,5 @@ http://bower.io/
 - RubyGems  
 https://rubygems.org/  
 `sudo gem update --system`  
-
+- Brew  
+http://brew.sh/  
