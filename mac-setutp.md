@@ -9,9 +9,6 @@ https://www.invisionapp.com/craft
 ## Axure 8
 http://www.axure.com/download
 
-## Axure 7
-http://www.axure.com/previous
-
 ## Sketch
 https://www.sketchapp.com/
 
@@ -24,8 +21,14 @@ https://www.sublimetext.com/3
 ## Github Desktop
 https://desktop.github.com/
 
+## Xcode
+https://itunes.apple.com/fr/app/xcode/id497799835?mt=12
+
 ## iTerm
 https://www.iterm2.com/version3.html
+
+## Oh my ZSH
+http://ohmyz.sh/
 
 ## CleanMyMac
 http://macpaw.com/fr/store/cleanmymac
@@ -68,3 +71,9 @@ http://semaja2.net/projects/insomniaxinfo/
 
 ## Spotify
 https://www.spotify.com/fr/download/mac/
+
+## Glue Print
+http://glueprintapp.com/
+
+## Pocket
+https://itunes.apple.com/fr/app/pocket/id568494494?mt=12
